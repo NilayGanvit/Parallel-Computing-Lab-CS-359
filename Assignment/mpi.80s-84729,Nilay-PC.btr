@@ -1,0 +1,8 @@
+
+mpi:84729 terminated with signal 11 at PC=55cb3433b32d SP=7ffc5a9ac750.  Backtrace:
+./mpi(+0x132d)[0x55cb3433b32d]
+./mpi(+0x134c)[0x55cb3433b34c]
+./mpi(+0x1886)[0x55cb3433b886]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7eff27bd8d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7eff27bd8e40]
+./mpi(+0x1205)[0x55cb3433b205]
